@@ -1,0 +1,20 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main-sec{
+    font-family: monstarrat, sans-serif;
+    font-size: large;
+    background: rgb(240, 107, 83);
+    color: white;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+section{
+    background: rgb(255, 255, 255);
+}
+header{
+    background: chocolate;
+}

@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main-sec{
+    font-family: monstarrat, sans-serif;
+    font-size: large;
+    background: rgb(39, 20, 212);
+    color: white;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+section{
+    background: rgb(255, 255, 255);
+}
+header{
+    background: rgb(29, 10, 114);
+}
+.rounded{
+    background-color: rgb(33, 13, 145);
+}
