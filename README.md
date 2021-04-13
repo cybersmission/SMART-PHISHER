@@ -8,7 +8,7 @@ SMART-PHISHER is a socialengineering tool, Hack facebook, instagram, snapchat, t
 #apt-get update
 #apt-get upgrade
 #apt-get install git
-#https://github.com/cybersmission/SMART-PHISHER.git
+# git clone https://github.com/cybersmission/SMART-PHISHER.git
 #cd SMART-PHISHER
 #chmod +x *
 #./setup.sp
