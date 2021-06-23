@@ -3,13 +3,13 @@ echo ""
 clear
 echo ""
 echo ""
-echo -e $'\e[1;33m  𝐒𝐌𝐀𝐑𝐓-𝐏𝐇𝐈𝐒𝐇𝐄𝐑  𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗶𝗻𝗴 𝗽𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁... \e[0m'
+echo -e $'\e[1;33m  SMART-PHISHER Installing please wait... \e[0m'
 sleep 8
 clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;32m\e[0m\e[1;32m 𝗱𝗼 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝗿𝗼𝗽𝗲𝗿𝗹𝘆   \e[1;33m     (𝙔/𝙉) : \e[0m' option
+read -p $'\e[1;32m\e[0m\e[1;32m Do You Want To Install Properly   \e[1;33m     (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
@@ -23,7 +23,7 @@ clear
 exit
 fi
 
-echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m  𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 \e[0m'
+echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m  Downloading Requirements \e[0m'
 sudo apt-get install apache2 -y
 apt install php -y
 apt install jq -y
