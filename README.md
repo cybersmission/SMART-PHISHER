@@ -3,7 +3,7 @@ SMART-PHISHER is a socialengineering tool, Hack facebook, instagram, snapchat, t
 # SMART-PHISHER
  
  *Make Sure You Are A Root User
-# Install
+# Installation For Kali Linux
 ``````
 #apt-get update
 #apt-get upgrade
@@ -14,6 +14,18 @@ SMART-PHISHER is a socialengineering tool, Hack facebook, instagram, snapchat, t
 #./setup.sp
 #./smartphish.sh
 ``````
+# Installation For Termux
+``````
+#pkg update
+#pkg upgrade
+#pkg install git
+# git clone https://github.com/cybersmission/SMART-PHISHER.git
+#cd SMART-PHISHER
+#chmod +x *
+#./setup.sp
+#./smartphish.sh
+``````
+
 # visit YouTube Channel To Watch Praticals Videos -  https://youtu.be/4T7TUL85KII
 # Step By Step Guide on Website - https://cybermissionposts.blogspot.com/
 
