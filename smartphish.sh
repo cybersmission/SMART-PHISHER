@@ -42,7 +42,7 @@ echo""
 echo -e $'\e[1;33m            [01]= \e[1;32m INSTAGRAM  \e[0m'
 echo""
 echo""
-echo -e $'\e[1;33m            [02]= \e[1;32m FCEBOOK\e[0m'
+echo -e $'\e[1;33m            [02]= \e[1;32m FACEBOOK\e[0m'
 echo""
 echo""
 echo -e $'\e[1;33m            [03]= \e[1;32m GMAIL  \e[0m'
