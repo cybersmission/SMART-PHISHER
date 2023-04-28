@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "vscodevim.vim",
+        "sygene.auto-correct",
+        "ms-vscode.powershell",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens"
+    ]
+}
